@@ -1,6 +1,6 @@
 export const chefConfig = {
   name: "Chef Mo Chi",
-  whatsapp: "08139758320",
+  whatsapp: "+2348139758320",
   instagram: "chef_mochil",
   email: "hello@jordanlugard15@gmail.com",
   address: "Abuja, Nigeria",
