@@ -2,7 +2,7 @@ export const chefConfig = {
   name: "Chef Mo Chi",
   whatsapp: "08139758320",
   instagram: "chef_mochil",
-  email: "hello@chefmochi.com",
+  email: "hello@jordanlugard15@gmail.com",
   address: "Abuja, Nigeria",
   hero: {
     headline: "Chef Mo Chi: Private Chef for Food, Pastries & Intercontinental Cuisine in Abuja",
